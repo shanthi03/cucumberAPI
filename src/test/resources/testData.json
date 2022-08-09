@@ -1,0 +1,54 @@
+{
+  "createRequest" : {
+    "name": "Tenali Ramakrishna",
+    "status": "active",
+    "gender": "male"
+
+  },
+  "putRequest":{
+    "name":"Bob M",
+    "gender":"male",
+    "email":"bob199@15ce.com",
+    "status":"active"
+  },
+  "createPost": {
+
+    "title": "API Testing",
+    "body": "Application Programming Interface (API) is a software interface that allows two applications to interact with each other without any user intervention."
+  },
+  "putPost":
+  {
+    "title": "API",
+    "body": "Voluptatem eius conculco. Beneficium abscido decimus. Absum adinventitias texo. Administratio denego appello. Est custodia cunctatio."
+  },
+  "createComment":
+  {
+    "name": "Bob",
+    "email": "bob123@gmail.com",
+    "body": "Facere incidunt reprehenderit.Voluptatem eius conculco"
+  },
+  "putComment":
+  {
+    "name": "Shanthi",
+    "email": "abcd123@gmail.com",
+    "body": "Absum adinventitias texo. Administratio denego appello.Facere incidunt reprehenderit ajayvijaysnehatinkupinky."
+  },
+  "createTodo":
+  {
+    "title": "speciosus earum sodalitas ea adduco tabernus vester.",
+    "due_on": "2022-08-23T00:00:00.000+05:30",
+    "status": "completed"
+  },
+  "putTodo":
+  {
+    "title": "adduco tabernus vester.",
+    "due_on": "2020-08-30T00:00:00.000+05:30",
+    "status": "completed"
+  },
+  "error":{
+    "name":"Sudee",
+    "gender":"male",
+    "email":"sudee98@15ce.com",
+    "status":""
+  }
+}
